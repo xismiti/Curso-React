@@ -1,2 +1,2 @@
 # Curso React
- Curso de reacr do basico ao avançado
+ Curso de react do basico ao avançado
