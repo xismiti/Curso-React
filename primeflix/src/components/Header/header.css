@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    height: 8vh;
+    background-color: black;
+    color: white;
+}
+header a {
+    text-decoration: none;
+    color: white;
+    margin: 40px;
+    cursor: pointer;
+}
+
+.favorito{
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 4px;
+    color: #000000;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 24px;
+}
